@@ -72,7 +72,8 @@ flex-wrap: wrap;
 
 
 }
-.portfolio {margin-bottom: 192px;}
+.portfolio__container {margin-bottom: 68px;}
+
 
 .content__item {color: #FFF;
 font-family: Epilogue;
